@@ -23,32 +23,32 @@ Analyze traffic accident data to identify critical patterns related to:
    ⏰ Hourly, weekly, and monthly analysis of accident frequency  
    📍 Rush hour vs normal hours
 
-   ![Time Pattern Analysis](path/to/image1.png)
+   ![Time Pattern Analysis](https://github.com/Soumyareddy-0804/PRODIGY_DS_5/blob/main/Task_5_time_based_patterns.png)
 
 2. **Weather Conditions & Severity**  
    🌧️ Top weather types with accident count  
    🔍 Visibility vs Severity  
    🌡️ Temperature distribution
 
-   ![Weather Analysis](path/to/image2.png)
+   ![Weather Analysis](https://github.com/Soumyareddy-0804/PRODIGY_DS_5/blob/main/Task_5_Weather_conditions.png)
 
 3. **Road Condition Analysis**  
    🚦 Impact of road infrastructure like signals, roundabouts  
    ☀️ Sunrise/Sunset condition effect
 
-   ![Road Analysis](path/to/image3.png)
+   ![Road Analysis](https://github.com/Soumyareddy-0804/PRODIGY_DS_5/blob/main/Task_5_Road_condtion.png)
 
 4. **Geospatial Mapping**  
    🗺️ Accident hotspots by state and city  
    🔥 Interactive heatmap of accident density
 
-   ![Heatmap](path/to/image4.png)
+   ![Heatmap](https://github.com/Soumyareddy-0804/PRODIGY_DS_5/blob/main/Task_5_Map.png)
 
 5. **Correlation & Severity Insights**  
    📈 Feature correlation heatmap  
    🔬 Severity vs visibility, temperature, and time
 
-   ![Severity Insights](path/to/image5.png)
+   ![Severity Insights](https://github.com/Soumyareddy-0804/PRODIGY_DS_5/blob/main/Task_5_Severity.png)
 
 ## 💡 Key Insights
 - Peak accidents occur during **rush hours (7–9 AM, 4–6 PM)**
